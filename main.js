@@ -15,6 +15,9 @@ let user_name_age = document.querySelector(".name_age");
 user_name_age.innerHTML = "Uživatel " + user_name + " má věk " 
  + user_age; */
 
-let hour_salary = Number(prompt(" Jaká je Vaše hodinová mzda v korunách? :"));
+/*let hour_salary = Number(prompt(" Jaká je Vaše hodinová mzda v korunách? :"));
 let complete_salary = (hour_salary * 8 * 21);
-let salary = document.querySelector(".salary")
+let salary = document.querySelector(".salary");
+salary.innerHTML = "Vaše celková měsíční mzda je: " + complete_salary + " Kč."; */
+
+
